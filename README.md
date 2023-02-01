@@ -1,7 +1,7 @@
 # NeuralShare
 make AI models accessible for free from any device, regardless of its hardware resources
 
-**Feb 1, 2023: the development of the node application is well advanced and is almost ready. It will be simple to use and will also allow you to choose the maximum response per hour you want to send. Also, even if it's listening, the app won't send any response if the nodes aren't at least a reasonable number. Join Discord for updates: [**https://discord.gg/77cMV3M42V**](https://discord.gg/77cMV3M42V)**
+**UPDATE Feb 1, 2023: The NEUR token was created on Stellar's FutureNet (`NEUR-GAIDLQERTCWHVEY7QXQYSRIEZSCH3EQYP5RTYDT44POFVSKMCIOWUUJP`). It is a token with no value, on a Test network and which cannot be purchased or which has no speculation purpose. The only way to receive it will be through the airdrop that will be made. It will be used to send prompts. the development of the node application is well advanced and is almost ready. It will be simple to use and will also allow you to choose the maximum response per hour you want to send. Also, even if it's listening, the app won't send any response if the nodes aren't at least a reasonable number. Join Discord for updates: [**https://discord.gg/77cMV3M42V**](https://discord.gg/77cMV3M42V)**
 
 ![](https://user-images.githubusercontent.com/114559605/215350290-eed2157c-ba6a-4560-ad07-6ec37933273b.jpg)
 
